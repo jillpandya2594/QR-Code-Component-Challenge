@@ -38,11 +38,11 @@ img{
 	text-align: center;
 	display: block;
 	border-radius: 25px;
+	margin-bottom:2em;
 }
 .header{
      
-        margin-top: 2em;
-	margin-bottom: 2em;
+        
 	font-size: 25px;
 	text-align: center;
 	font-weight: bold;
@@ -62,7 +62,7 @@ img{
 
 }
 .header__two{
-	 
+	 margin-top:2em;
 	 color:hsl(220, 15%, 55%);
 	font-size: 15px; 
 	 margin-bottom: 1em;
