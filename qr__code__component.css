@@ -24,25 +24,24 @@ body{
 
 }
 .card{
-
+        max-width:18rem;
 	border-radius: 15px;
 	background-color:hsl(0, 0%, 100%);
 	margin-bottom: 1em;
-     
+        margin-top:2em;
 	border:2px solid white;
 }
 img{
 	max-width: 100%;
 	padding:1em;
-	
+	display:block;
 	border-radius: 25px;
+	text-align:center;
 }
 .header{
-     
+        margin-top: .5em;
+        margin-bottom: .5em;
 	font-size:20px;
-	padding:2em;
-	padding-top: 0;
-	padding-bottom:0;
 	font-weight:bold;
 	text-align: center;
 	
