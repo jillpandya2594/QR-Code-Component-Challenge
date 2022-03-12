@@ -4,7 +4,7 @@
 	margin:0;
 }
 body{
-    min-width: 375px;
+    width: 375px;
 	
    margin:0;
    background-color: hsl(212, 45%, 89%);
@@ -45,11 +45,3 @@ img{
 	 margin-bottom: 1em;
 }
 
-@media all and (min-width: 1440px){
-	body{
-		text-align: center;
-	}
-	img{
-		
-	}
-}
