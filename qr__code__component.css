@@ -40,10 +40,11 @@ img{
 	border-radius: 25px;
 }
 .header{
-     margin: .5em;
      
+        margin-top:.2em;
+	margin-bottom:.2em;
 	font-size:20px;
-	margin-left:1em;
+	text-align:center;
 	font-weight:bold;
 	
 	
@@ -61,7 +62,7 @@ img{
 
 }
 .header__two{
-	 padding:1.5em;
+	 
 	 color:hsl(220, 15%, 55%);
 	font-size: 15px; 
 	 margin-bottom: 1em;
