@@ -4,21 +4,31 @@
 	margin:0;
 }
 body{
+    
+
+   margin: auto;
    
-	
-   margin:auto;
+   
    background-color: hsl(212, 45%, 89%);
-   text-align: center;
+   
    font-family: 'Outfit',sans-serif;
    padding:1.5em;
    
 
 }
+.container{
+	display:flex;
+     flex-direction: column;
+     justify-content: center;
+     align-items: center;
+
+}
 .card{
+
 	border-radius: 15px;
 	background-color:hsl(0, 0%, 100%);
 	margin-bottom: 1em;
-
+     
 	border:2px solid white;
 }
 img{
@@ -34,6 +44,7 @@ img{
 	padding-top: 0;
 	padding-bottom:0;
 	font-weight:bold;
+	text-align: center;
 	
 
 
@@ -43,5 +54,5 @@ img{
 	 color:hsl(220, 15%, 55%);
 	font-size: 15px; 
 	 margin-bottom: 1em;
+	 text-align: center;
 }
-
