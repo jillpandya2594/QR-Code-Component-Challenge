@@ -44,3 +44,12 @@ img{
 	font-size: 15px; 
 	 margin-bottom: 1em;
 }
+
+@media all and (min-width: 1440px){
+	body{
+		text-align: center;
+	}
+	img{
+		
+	}
+}
